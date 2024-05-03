@@ -1,4 +1,6 @@
-# LAB-6-Online-examination-system
+## EX NO: 6
+## DATE: 24.04.2024
+# ONLINE EXAMINATION SYSTEM
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
